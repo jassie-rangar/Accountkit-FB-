@@ -10,7 +10,7 @@
 4.) Basics of App:
     This is a app that demonstrates how to use AccountKit (Facebook's framework) to register/login user into your app using user's
     Phone_Number/Email.
-    [Note: Starter Code was provided by Facebook itself via Udacity's course of iOS named "Passwordless Login Solutions for iOS"].
+    [Note: Starter Code was provided by Facebook itself via Udacity's course for iOS named "Passwordless Login Solutions for iOS"].
     
 5.) Hope you like the work. :)
 
